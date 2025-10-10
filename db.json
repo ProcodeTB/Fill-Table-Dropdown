@@ -12,7 +12,7 @@
                     "name": ""
                 },
                 {
-                    "id": null,
+                    "id": "id_1_2",
                     "image": "2",
                     "idHeader1": "CAZ-00024244",
                     "idHeader2": "",
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "id": null,
+            "id": "id_4_1",
             "table": "table_4",
             "friends": [
                 {
@@ -93,7 +93,7 @@
                     "name": ""
                 },
                 {
-                    "id": null,
+                    "id": "id_4_2",
                     "image": "2",
                     "idHeader1": "CAZ-00024244",
                     "idHeader2": "",
