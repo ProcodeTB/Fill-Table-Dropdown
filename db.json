@@ -2,6 +2,7 @@
     "data": [
         {
             "id": "test1",
+            "table": "table_1",
             "friends": [
                 {
                     "id": null,
@@ -19,6 +20,87 @@
                 },
                 {
                     "id": 2,
+                    "image": "3",
+                    "idHeader1": "",
+                    "idHeader2": "Aleksanyan",
+                    "name": "Morrison Valenzuela"
+                }
+            ]
+        },
+        {
+            "id": "row2",
+            "table": "table_2",
+            "friends": [
+                {
+                    "id": "row2",
+                    "image": "1",
+                    "idHeader1": "CAZ-0002222",
+                    "idHeader2": "Aleksanyan",
+                    "name": ""
+                },
+                {
+                    "id": "row3",
+                    "image": "2",
+                    "idHeader1": "CAZ-00024244",
+                    "idHeader2": "",
+                    "name": "Hillary Flowers"
+                },
+                {
+                    "id": 2,
+                    "image": "3",
+                    "idHeader1": "",
+                    "idHeader2": "Aleksanyan",
+                    "name": "Morrison Valenzuela"
+                }
+            ]
+        },
+        {
+            "id": "3rd row",
+            "table": "table_3",
+            "friends": [
+                {
+                    "id": "row2",
+                    "image": "1",
+                    "idHeader1": "CAZ-0002222",
+                    "idHeader2": "Aleksanyan",
+                    "name": ""
+                },
+                {
+                    "id": "row3",
+                    "image": "2",
+                    "idHeader1": "CAZ-00024244",
+                    "idHeader2": "",
+                    "name": "Hillary Flowers"
+                },
+                {
+                    "id": "3rd row",
+                    "image": "3",
+                    "idHeader1": "",
+                    "idHeader2": "Aleksanyan",
+                    "name": "Morrison Valenzuela"
+                }
+            ]
+        },
+        {
+            "id": null,
+            "table": "table_4",
+            "friends": [
+                {
+                    "id": "row2",
+                    "image": "1",
+                    "idHeader1": "CAZ-0002222",
+                    "idHeader2": "Aleksanyan",
+                    "name": ""
+                },
+                {
+                    "id": null,
+                    "image": "2",
+                    "idHeader1": "CAZ-00024244",
+                    "idHeader2": "",
+                    "name": "Hillary Flowers"
+                },
+                {
+                    "id": "3rd row",
                     "image": "3",
                     "idHeader1": "",
                     "idHeader2": "Aleksanyan",
