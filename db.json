@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "id": "id_1_10",
+            "id0": "id_1_10",
             "table": "table_1",
             "friends": [
                 {
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "id": "id_2_10",
+            "id0": "id_2_10",
             "table": "table_2",
             "friends": [
                 {
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "id": "id_3_10",
+            "id0": "id_3_10",
             "table": "table_3",
             "friends": [
                 {
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "id": "id_4_10",
+            "id0": "id_4_10",
             "table": "table_4",
             "friends": [
                 {
