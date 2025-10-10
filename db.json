@@ -1,1 +1,30 @@
-
+{
+    "data": [
+        {
+            "id": "test1",
+            "friends": [
+                {
+                    "id": null,
+                    "image": "1",
+                    "idHeader1": "CAZ-0002222",
+                    "idHeader2": "Aleksanyan",
+                    "name": ""
+                },
+                {
+                    "id": "test1",
+                    "image": "2",
+                    "idHeader1": "CAZ-00024244",
+                    "idHeader2": "",
+                    "name": "Hillary Flowers"
+                },
+                {
+                    "id": 2,
+                    "image": "3",
+                    "idHeader1": "",
+                    "idHeader2": "Aleksanyan",
+                    "name": "Morrison Valenzuela"
+                }
+            ]
+        }
+    ]
+}
