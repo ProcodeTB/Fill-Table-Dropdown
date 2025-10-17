@@ -9,21 +9,72 @@
                     "image": "1",
                     "idHeader1": "CAZ-0002222",
                     "idHeader2": "Aleksanyan",
-                    "name": ""
+                    "name": "",
+                    "thirdLvl": [
+                        {
+                            "make": "Bmw",
+                            "model": "328i",
+                            "color": "Silver"
+                        },
+                        {
+                            "make": null,
+                            "model": "N/a",
+                            "color": "Transparent "
+                        },
+                        {
+                            "make": "O'Audi",
+                            "model": "A6 quattro",
+                            "color": "White"
+                        }
+                    ]
                 },
                 {
                     "id": "id_1_2",
                     "image": "2",
                     "idHeader1": "CAZ-00024244",
                     "idHeader2": "",
-                    "name": "Hillary Flowers"
+                    "name": "Hillary Flowers",
+                    "thirdLvl": [
+                        {
+                            "make": "Symbols",
+                            "model": "!@#$%^&*()_+*-<>..?/|;:",
+                            "color": null
+                        },
+                        {
+                            "make": "Lambo",
+                            "model": "Gallardo !!!",
+                            "color": "Yellow"
+                        },
+                        {
+                            "make": "Ferrari",
+                            "model": "FF",
+                            "color": "Red Devil"
+                        }
+                    ]
                 },
                 {
                     "id": "id_1_3",
                     "image": "3",
                     "idHeader1": "",
                     "idHeader2": "Aleksanyan",
-                    "name": "Morrison Valenzuela"
+                    "name": "Morrison Valenzuela",
+                    "thirdLvl": [
+                        {
+                            "make": null,
+                            "model": null,
+                            "color": null
+                        },
+                        {
+                            "make": "Lada",
+                            "model": 2106,
+                            "color": "Mixed color )))"
+                        },
+                        {
+                            "make": "Acura",
+                            "model": "MDX",
+                            "color": null
+                        }
+                    ]
                 }
             ]
         },
@@ -36,21 +87,72 @@
                     "image": "1",
                     "idHeader1": "CAZ-0002222",
                     "idHeader2": "Aleksanyan",
-                    "name": ""
+                    "name": "",
+                    "thirdLvl": [
+                        {
+                            "make": "Toyota",
+                            "model": "Corolla",
+                            "color": "Blue"
+                        },
+                        {
+                            "make": "Honda",
+                            "model": "Civic",
+                            "color": "Red"
+                        },
+                        {
+                            "make": "Ford",
+                            "model": "Focus",
+                            "color": "Black"
+                        }
+                    ]
                 },
                 {
                     "id": "id_2_2",
                     "image": "2",
                     "idHeader1": "CAZ-00024244",
                     "idHeader2": "",
-                    "name": "Hillary Flowers"
+                    "name": "Hillary Flowers",
+                    "thirdLvl": [
+                        {
+                            "make": "Nissan",
+                            "model": "Altima",
+                            "color": ""
+                        },
+                        {
+                            "make": "Mazda",
+                            "model": "",
+                            "color": "White"
+                        },
+                        {
+                            "make": "",
+                            "model": "Camry",
+                            "color": "Silver"
+                        }
+                    ]
                 },
                 {
                     "id": "id_2_3",
                     "image": "3",
                     "idHeader1": "",
                     "idHeader2": "Aleksanyan",
-                    "name": "Morrison Valenzuela"
+                    "name": "Morrison Valenzuela",
+                    "thirdLvl": [
+                        {
+                            "make": "",
+                            "model": "",
+                            "color": ""
+                        },
+                        {
+                            "make": "",
+                            "model": "",
+                            "color": ""
+                        },
+                        {
+                            "make": "",
+                            "model": "",
+                            "color": ""
+                        }
+                    ]
                 }
             ]
         },
@@ -63,21 +165,72 @@
                     "image": "1",
                     "idHeader1": "CAZ-0002222",
                     "idHeader2": "Aleksanyan",
-                    "name": ""
+                    "name": "",
+                    "thirdLvl": [
+                        {
+                            "make": null,
+                            "model": "Civic",
+                            "color": "Red"
+                        },
+                        {
+                            "make": "Toyota",
+                            "model": null,
+                            "color": "Blue"
+                        },
+                        {
+                            "make": "Ford",
+                            "model": "Focus",
+                            "color": null
+                        }
+                    ]
                 },
                 {
                     "id": "id_3_2",
                     "image": "2",
                     "idHeader1": "CAZ-00024244",
                     "idHeader2": "",
-                    "name": "Hillary Flowers"
+                    "name": "Hillary Flowers",
+                    "thirdLvl": [
+                        {
+                            "make": 123,
+                            "model": "Civic",
+                            "color": "Blue"
+                        },
+                        {
+                            "make": "Toyota",
+                            "model": false,
+                            "color": "Red"
+                        },
+                        {
+                            "make": "Ford",
+                            "model": "Focus",
+                            "color": 999
+                        }
+                    ]
                 },
                 {
                     "id": "id_3_3",
                     "image": "3",
                     "idHeader1": "",
                     "idHeader2": "Aleksanyan",
-                    "name": "Morrison Valenzuela"
+                    "name": "Morrison Valenzuela",
+                    "thirdLvl": [
+                        {
+                            "make": "Kia",
+                            "model": "Soul",
+                            "color": "Green"
+                        },
+                        {
+                            "make": "",
+                            "model": "CR-V",
+                            "color": null
+                        },
+                        {
+                            "make": 987,
+                            "model": "",
+                            "color": "White"
+                        }
+                    ]
                 }
             ]
         },
@@ -90,21 +243,72 @@
                     "image": "1",
                     "idHeader1": "CAZ-0002222",
                     "idHeader2": "Aleksanyan",
-                    "name": ""
+                    "name": "",
+                    "thirdLvl": [
+                        {
+                            "make": "Tesla",
+                            "model": "Model 3",
+                            "color": "White"
+                        },
+                        {
+                            "make": "Tesla",
+                            "model": "Model 3",
+                            "color": "White"
+                        },
+                        {
+                            "make": "Tesla",
+                            "model": "Model 3",
+                            "color": "White"
+                        }
+                    ]
                 },
                 {
                     "id": "id_4_2",
                     "image": "2",
                     "idHeader1": "CAZ-00024244",
                     "idHeader2": "",
-                    "name": "Hillary Flowers"
+                    "name": "Hillary Flowers",
+                    "thirdLvl": [
+                        {
+                            "make": "   Ford  ",
+                            "model": "Fiesta!!!",
+                            "color": "B1ue"
+                        },
+                        {
+                            "make": "T@oyota",
+                            "model": "Cor0lla",
+                            "color": "Re$d"
+                        },
+                        {
+                            "make": "BMW",
+                            "model": "X5",
+                            "color": " "
+                        }
+                    ]
                 },
                 {
                     "id": "id_4_3",
                     "image": "3",
                     "idHeader1": "",
                     "idHeader2": "Aleksanyan",
-                    "name": "Morrison Valenzuela"
+                    "name": "Morrison Valenzuela",
+                    "thirdLvl": [
+                        {
+                            "make": "ToyotaToyotaToyotaToyotaToyota",
+                            "model": "CamryCamryCamryCamryCamry",
+                            "color": "RedRedRedRedRed"
+                        },
+                        {
+                            "make": "HondaHondaHondaHondaHonda",
+                            "model": "AccordAccordAccordAccordAccord",
+                            "color": "BlueBlueBlueBlueBlue"
+                        },
+                        {
+                            "make": "FordFordFordFordFord",
+                            "model": "FocusFocusFocusFocusFocus",
+                            "color": "BlackBlackBlackBlackBlack"
+                        }
+                    ]
                 }
             ]
         }
