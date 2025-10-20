@@ -1,16 +1,16 @@
 {
-    "data": [
+    "level_1": [
         {
             "id": "id_1_10",
             "table": "table_1",
-            "friends": [
+            "level_2": [
                 {
                     "id": "id_1_1",
                     "image": "1",
                     "idHeader1": "CAZ-0002222",
                     "idHeader2": "Aleksanyan",
                     "name": "",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": "Bmw",
                             "model": "328i",
@@ -34,7 +34,7 @@
                     "idHeader1": "CAZ-00024244",
                     "idHeader2": "",
                     "name": "Hillary Flowers",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": "Symbols",
                             "model": "!@#$%^&*()_+*-<>..?/|;:",
@@ -58,7 +58,7 @@
                     "idHeader1": "",
                     "idHeader2": "Aleksanyan",
                     "name": "Morrison Valenzuela",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": null,
                             "model": null,
@@ -81,14 +81,14 @@
         {
             "id": "id_2_10",
             "table": "table_2",
-            "friends": [
+            "level_2": [
                 {
                     "id": "id_2_1",
                     "image": "1",
                     "idHeader1": "CAZ-0002222",
                     "idHeader2": "Aleksanyan",
                     "name": "",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": "Toyota",
                             "model": "Corolla",
@@ -112,7 +112,7 @@
                     "idHeader1": "CAZ-00024244",
                     "idHeader2": "",
                     "name": "Hillary Flowers",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": "Nissan",
                             "model": "Altima",
@@ -136,7 +136,7 @@
                     "idHeader1": "",
                     "idHeader2": "Aleksanyan",
                     "name": "Morrison Valenzuela",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": "",
                             "model": "",
@@ -159,14 +159,14 @@
         {
             "id": "id_3_10",
             "table": "table_3",
-            "friends": [
+            "level_2": [
                 {
                     "id": "id_3_1",
                     "image": "1",
                     "idHeader1": "CAZ-0002222",
                     "idHeader2": "Aleksanyan",
                     "name": "",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": null,
                             "model": "Civic",
@@ -190,7 +190,7 @@
                     "idHeader1": "CAZ-00024244",
                     "idHeader2": "",
                     "name": "Hillary Flowers",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": 123,
                             "model": "Civic",
@@ -214,7 +214,7 @@
                     "idHeader1": "",
                     "idHeader2": "Aleksanyan",
                     "name": "Morrison Valenzuela",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": "Kia",
                             "model": "Soul",
@@ -237,14 +237,14 @@
         {
             "id": "id_4_10",
             "table": "table_4",
-            "friends": [
+            "level_2": [
                 {
                     "id": "id_4_1",
                     "image": "1",
                     "idHeader1": "CAZ-0002222",
                     "idHeader2": "Aleksanyan",
                     "name": "",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": "Tesla",
                             "model": "Model 3",
@@ -268,7 +268,7 @@
                     "idHeader1": "CAZ-00024244",
                     "idHeader2": "",
                     "name": "Hillary Flowers",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": "   Ford  ",
                             "model": "Fiesta!!!",
@@ -292,7 +292,7 @@
                     "idHeader1": "",
                     "idHeader2": "Aleksanyan",
                     "name": "Morrison Valenzuela",
-                    "thirdLvl": [
+                    "level_3": [
                         {
                             "make": "ToyotaToyotaToyotaToyotaToyota",
                             "model": "CamryCamryCamryCamryCamry",
